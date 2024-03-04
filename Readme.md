@@ -7,5 +7,3 @@ Un analizador lexico es la primera parte de un compilador, el trabajo de este an
 Normalmente los analizadores lexicos incluyen un conjunto de reglas que definen el lexico, estas suelen consistir en expresiones regulares que indican el conjunto de posibles secuencias de caracteres de entrada.
 
 Otra de las funciones del analizador lexico puede ser eliminar comentarios y espacios en blanco ya que estos generalmente no son relevantes para la posterior etapa de analisis.
-
-![WhatsApp Image 2024-02-29 at 8 02 06 PM](https://github.com/Brug4c/Seminario-de-traductores-2/assets/157430737/c79c92e5-ff7a-4970-83e7-966faccb6ded)
