@@ -17,4 +17,7 @@ Ahora voy a explicar el analizador sintactico:
 El analizador sintactico ya es un poco mas complejo en cuanto a la funcion y a la forma de programar, ya cuenta con archivos de cabecera, estos archivos de cabecera son la pila y el lenguaje.
 Hasta este momento el analizador lexico y el analizador sintactico aun no estan conectados para que trabajen juntos.
 
-Un ejemplo del analizador sintactco
+Un ejemplo del analizador sintactico:
+![image](https://github.com/Brug4c/Seminario-de-traductores-2/assets/157430737/203dda9b-9279-40e9-a0b6-f5b329ad640d)
+
+Hasta el momento ese es el avance que se tiene y se esta trabajando en conectar los analizadores que ya se tienen para que trabajen juntos.
