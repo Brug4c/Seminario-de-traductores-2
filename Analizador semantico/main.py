@@ -2,7 +2,7 @@ import lexical
 import sintactic
 
 text = ""
-archivo = open("example.txt",mode="r")
+archivo = open(r"C:\Users\brand\Downloads\Analizador semantico\codigo.txt", mode="r")
 while(True):
     line = archivo.readline()
     if not line:
