@@ -16,6 +16,7 @@ Ejemplo 1:
 ![image](https://github.com/Brug4c/Seminario-de-traductores-2/assets/157430737/1f875e3c-964e-40c1-aa53-7903cdf4ccfc)
 
 Ejemplo 2:
+
 ![image](https://github.com/Brug4c/Seminario-de-traductores-2/assets/157430737/5812760c-d26e-4431-9c42-cb0e9939193b)
 
 Ejemplo 3:
