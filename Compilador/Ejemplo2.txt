@@ -1,0 +1,13 @@
+int suma(int a, int b){
+	return a+b;
+}
+
+int main(){
+int a;
+int b;
+int c;
+a = 10;
+b = 24;
+c = suma(a,b);
+print (c);
+}
